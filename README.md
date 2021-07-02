@@ -9,3 +9,22 @@ password generator function.
 **[Demo Video](https://youtu.be/FkK5N_UBY8s)**
 
 # Snippets
+## Sign Up
+
+![](/Snippets/sign-up.PNG)
+
+## Log In
+
+![](/Snippets/log-in.PNG)
+
+## Homepage
+
+![](/Snippets/homepage.jpeg)
+
+## Following
+
+![](/Snippets/following.jpeg)
+
+## Connect
+
+![](/Snippets/connect.jpeg)
